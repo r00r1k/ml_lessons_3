@@ -188,10 +188,3 @@ git config --global credential.helper store
    ```bash
    git diff
    ```
-
-   ## Pull-reqest
-
-   Просмотр текущих PR в репозитории:
-    ```bash
-    git pull-request
-    ```
